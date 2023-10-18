@@ -17,7 +17,7 @@ namespace WebApplication2.Controllers
         {
             return View();
         }
-        
+        hello
         public IActionResult Privacy()
         {
             return View();
